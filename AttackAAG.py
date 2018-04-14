@@ -201,6 +201,6 @@ print()
 #print()
 k = reduce(a+b+inverse(a)+inverse(b))
 #print(k)
-print("Their secrete common key:",k)
+print("Their secret common key:",k)
 
 print()
